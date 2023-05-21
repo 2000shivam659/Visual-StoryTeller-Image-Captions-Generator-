@@ -40,8 +40,3 @@ The following libraries have been used in this project:
 * Improve the user interface for a better user experience
 * Deploy the tool to a cloud server for better accessibility
 
-## Credits
-
-* The project has been developed by [Anubhav Anand](#installation).
-* It utilizes pre-trained models from Hugging Face and various open-source libraries.
-
